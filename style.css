@@ -27,3 +27,8 @@ a{
 footer{
     font-size:30px;
 }
+
+footer a{
+    color:blue;
+    font-size:30px;
+}
